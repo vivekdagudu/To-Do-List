@@ -44,7 +44,7 @@ h1{
 li{
   background-color: rgb(255, 252, 223);
   margin: 5px;
-  width: 450px;
+  width: 320px;
   border: 2px solid black;
   border-radius: 10px;
   display: flex;                    /* make li a flex container */
